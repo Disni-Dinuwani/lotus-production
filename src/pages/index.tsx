@@ -2,7 +2,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { ArrowRight, Camera, Film, Image, UserCheck } from 'lucide-react';
-import { Button } from '@/components/Navbar;
+import { Button } from '@/components/Navbar';
 import Navbar from '@/components/Navbar';
 import Hero from '@/components/Hero';
 import Footer from '@/components/Footer';
